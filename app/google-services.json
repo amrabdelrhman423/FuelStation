@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "454912142014",
+    "firebase_url": "https://fuelstation-d962c.firebaseio.com",
+    "project_id": "fuelstation-d962c",
+    "storage_bucket": "fuelstation-d962c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454912142014:android:f2f8482971c469f1b88cef",
+        "android_client_info": {
+          "package_name": "com.example.fuelstation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454912142014-afsrciba59btqnkt44tujggvu07b4011.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fuelstation",
+            "certificate_hash": "e7d0e1fe991981e2f9ffbc7b63fe31af3b0abf30"
+          }
+        },
+        {
+          "client_id": "454912142014-caeqsqvsccv9j0ndlocq7dj4irn7ht7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7wxzWjSRE0EK2iHybzAx5ejNUB67mQRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454912142014-caeqsqvsccv9j0ndlocq7dj4irn7ht7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
